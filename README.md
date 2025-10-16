@@ -26,17 +26,18 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=neatink.neatink"  />
+</div>
+
+###
+
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=neatink.neatink"  />
-</div>
-
-###
 <h3 align="left">👩‍💻  About me: </h3>
 
 ###
