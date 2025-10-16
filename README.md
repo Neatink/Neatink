@@ -71,11 +71,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" height="40" alt="docker logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://media.discordapp.net/attachments/1370750567902613544/1428498113580105810/Django-Logo.png?ex=68f2b80a&is=68f1668a&hm=6a12f72aa6b36e015024784cc6c9a8f4c57ad2214f56208596a56dd5e1afef5d&=&format=webp&quality=lossless&width=1382&height=864" height="40" alt="django logo"  />
   <img width="12" />
