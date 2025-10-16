@@ -8,12 +8,6 @@
 
 ###
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-###
-
 <h1 align="center">👋 Hello! I'm Neatink🌟 </h1>
 
 ###
@@ -29,6 +23,12 @@
     <img src="https://img.shields.io/badge/steam-%26?style=for-the-badge&logo=steam&logoColor=white&logoSize=25&color=%23000000"/>
   </a>
 </div>
+
+###
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ###
 
