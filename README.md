@@ -46,6 +46,6 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/718826c9a8916ce4df8a94babb463f4d3f2a0501/icons/python.svg" height="40" alt="python logo"  />
+  <img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" height="40" alt="python logo"  />
   <img width="12" />
 </div>
