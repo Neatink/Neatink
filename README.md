@@ -46,6 +46,6 @@
 ###
 
 <div align="left">
-  <img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" height="40" alt="python logo"  />
+  <img src="https://media.discordapp.net/attachments/1370750567902613544/1428497125171265637/python-logo.png?ex=68f2b71e&is=68f1659e&hm=0da15da6d502dae3923320bd7fa84225575dda57adfe52b383101240704d4dcb&=&format=webp&quality=lossless" height="40" alt="python logo"  />
   <img width="12" />
 </div>
