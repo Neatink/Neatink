@@ -29,9 +29,9 @@
 
 <p align="left">Backend developer on Python.Write projects on Django and Fastapi,also make small auxiliary utilities, such as:
 
- - [AutoCalculate](https://github.com/Neatink/AutoCalculate)
+ [AutoCalculate](https://github.com/Neatink/AutoCalculate)
   and 
- - [DiscordAutoSender](https://github.com/Neatink/DiscordAutoSender)
+ [DiscordAutoSender](https://github.com/Neatink/DiscordAutoSender)
  .I'm studying Python from 2021 year.I am currently taking the Python Pro Advanced Logic course.</p>
 
 ###
