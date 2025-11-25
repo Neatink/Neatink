@@ -90,7 +90,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Neatink&theme=transparent&border_radius=5&type=png" height="220" alt="Github Streak"  />
+  <img src="https://streak-stats.demolab.com/?user=Neatink&theme=transparent&border_radius=5&type=svg" height="220" alt="Github Streak"  />
 </div>
 
 ###
