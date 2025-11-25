@@ -61,9 +61,9 @@
 ###
 
 <div align="left">
-  <img src="https://media.discordapp.net/attachments/1370750567902613544/1428497125171265637/python-logo.png?ex=68f2b71e&is=68f1659e&hm=0da15da6d502dae3923320bd7fa84225575dda57adfe52b383101240704d4dcb&=&format=webp&quality=lossless" height="40" alt="python logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://media.discordapp.net/attachments/1370750567902613544/1428497637635788800/sqlite-icon.png?ex=68f2b799&is=68f16619&hm=fd6252c8611ebd617156c902dbd64425efefe006550c3544d67aa502d18a62be&=&format=webp&quality=lossless" height="40" alt="sqlite logo"  />
+  <img src="https://e7.pngegg.com/pngimages/509/659/png-clipart-sqlite-database-browser-web-browser-windev-%E6%95%B0%E6%8D%AE-mac-browser-thumbnail.png" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
@@ -77,9 +77,9 @@
   <img width="12" />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://media.discordapp.net/attachments/1370750567902613544/1428498113580105810/Django-Logo.png?ex=68f2b80a&is=68f1668a&hm=6a12f72aa6b36e015024784cc6c9a8f4c57ad2214f56208596a56dd5e1afef5d&=&format=webp&quality=lossless&width=1382&height=864" height="40" alt="django logo"  />
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://media.discordapp.net/attachments/1370750567902613544/1428497895656784054/logo-teal.png?ex=68f2b7d6&is=68f16656&hm=c444a82024f30f8b6b00e22a23337812edbba96c0a01e0329b01d5ce13c635dd&=&format=webp&quality=lossless" height="40" alt="fastapi logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/2560px-FastAPI_logo.svg.png" height="40" alt="fastapi logo"  />
   <img width="12" />
 </div>
 
@@ -90,14 +90,14 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Neatink&theme=transparent&border_radius=5" height="220" alt="Github Streak"  />
+  <img src="https://streak-stats.demolab.com?user=Neatink&theme=transparent&border_radius=5&type=png" height="220" alt="Github Streak"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neatink&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neatink&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-jackgraymer.vercel.app/api/top-langs?username=neatink&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  /> <!-- jackgraymer thx -->
 </div>
 
 ###
