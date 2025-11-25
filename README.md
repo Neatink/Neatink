@@ -63,7 +63,7 @@
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://e7.pngegg.com/pngimages/509/659/png-clipart-sqlite-database-browser-web-browser-windev-%E6%95%B0%E6%8D%AE-mac-browser-thumbnail.png" height="40" alt="sqlite logo"  />
+  <img src="https://user-images.githubusercontent.com/7804464/59509117-6caa5000-8eb0-11e9-8c9a-70b06f927d1b.png" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
@@ -90,7 +90,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Neatink&theme=transparent&border_radius=5&type=svg" height="220" alt="Github Streak"  />
+  <a href="https://streak-stats.demolab.com/?user=Neatink&theme=transparent&border_radius=5&type=svg"><img src="https://streak-stats.demolab.com/?user=Neatink&theme=transparent&border_radius=5&type=svg" height="220" alt="Github Streak"  /></a>
 </div>
 
 ###
