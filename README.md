@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About me: </h3>
+<h3 align="left">👩‍💻  About me </h3>
 
 ###
 
@@ -48,17 +48,17 @@
 [DiscordAutoSender](https://github.com/Neatink/DiscordAutoSender). I'm studying Python from 2021 year. I am currently taking the Python Pro Advanced Logic course.</p>
 
 ###
-<h3 align="left">📕 My main projects: </h3>
+<details>
+<summary><h3 align="left">📕 My main projects </h3></summary>
 
 <a href="https://github-neatink-stats.vercel.app/api/pin/?username=neatink&repo=Task-tracking&show_owner=true&theme=github_dark"><img src="https://github-neatink-stats.vercel.app/api/pin/?username=neatink&repo=Task-tracking&show_owner=true&theme=github_dark" height="100" alt="task tracking"/></a>
 <a href="https://github-neatink-stats.vercel.app/api/pin/?username=neatink&repo=AutoCalculate&show_owner=true&theme=github_dark"><img src="https://github-neatink-stats.vercel.app/api/pin/?username=neatink&repo=AutoCalculate&show_owner=true&theme=github_dark" height="100" alt="task tracking"/></a>
 <a href="https://github-neatink-stats.vercel.app/api/pin/?username=neatink&repo=Learning-Management-System&show_owner=true&theme=github_dark"><img src="https://github-neatink-stats.vercel.app/api/pin/?username=neatink&repo=Learning-Management-System&show_owner=true&theme=github_dark" height="100" alt="task tracking"/></a>
+</details>
 
 ###
-
-<h3 align="left">🛠 Technologies:</h3>
-
-###
+<details>
+<summary><h3 align="left">🛠 Technologies </h3></summary>
 
 <div align="left">
   <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" height="40" alt="python logo"  /></a>
@@ -79,13 +79,15 @@
   <img width="12" />
   <a href="https://www.djangoproject.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" height="40" alt="django logo"  /></a>
   <img width="12" />
-  <a href="https://fastapi.tiangolo.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/2560px-FastAPI_logo.svg.png" height="40" alt="fastapi logo"  /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/2560px-FastAPI_logo.svg.png" height="30" alt="fastapi logo"  /></a>
   <img width="12" />
 </div>
 
-###
+</details>
 
-<h3 align="left">🔥   My statistics :</h3>
+###
+<details>
+<summary><h3 align="left">🔥   My statistics </h3></summary>
 
 ###
 
@@ -100,5 +102,4 @@
   <a href="https://github-neatink-stats.vercel.app/api?username=neatink&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1"><img src="https://github-neatink-stats.vercel.app/api?username=neatink&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  /></a>
   <a href="https://github-neatink-stats.vercel.app/api/top-langs?username=neatink&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2"><img src="https://github-neatink-stats.vercel.app/api/top-langs?username=neatink&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  /></a>
 </div>
-
-###
+</details>
