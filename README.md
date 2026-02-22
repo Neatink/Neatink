@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/neatinkgit" target="_blank">
+  <a href="https://t.me/GarudaLinux" target="_blank">
     <img src="https://img.shields.io/badge/telegram-%26?style=for-the-badge&logo=telegram&logoColor=white&logoSize=25&color=%2326A5E4"/>
   </a>
   <a href="https://discord.com/users/692143380884488252" target="_blank">
@@ -45,7 +45,7 @@
 <p align="left">Backend developer on Python. Write projects on Django and Fastapi,also make small auxiliary utilities, such as:
 
 [AutoCalculate](https://github.com/Neatink/AutoCalculate) and
-[DiscordAutoSender](https://github.com/Neatink/DiscordAutoSender). I'm studying Python from 2021 year. I am currently taking the Python Pro Advanced Logic course.</p>
+[DiscordAutoSender](https://github.com/Neatink/DiscordAutoSender) I've been learning Python since 2021. in december 2025 i finished the Python Pro Advanced Logic course.</p>
 
 ###
 <details>
