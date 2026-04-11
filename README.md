@@ -79,7 +79,7 @@
   <img width="12" />
   <a href="https://www.djangoproject.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" height="40" alt="django logo"  /></a>
   <img width="12" />
-  <a href="https://fastapi.tiangolo.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/2560px-FastAPI_logo.svg.png" height="30" alt="fastapi logo"  /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/1280px-FastAPI_logo.svg.png" height="30" alt="fastapi logo"  /></a>
   <img width="12" />
 </div>
 
