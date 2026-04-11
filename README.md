@@ -51,9 +51,9 @@
 <details>
 <summary><h3 align="left">📕 My main projects </h3></summary>
 
-<a href="https://github-neatink-stats.vercel.app/api/pin/?username=neatink&repo=Task-tracking&show_owner=true&theme=github_dark"><img src="https://github-neatink-stats.vercel.app/api/pin/?username=neatink&repo=Task-tracking&show_owner=true&theme=github_dark" height="100" alt="task tracking"/></a>
-<a href="https://github-neatink-stats.vercel.app/api/pin/?username=neatink&repo=AutoCalculate&show_owner=true&theme=github_dark"><img src="https://github-neatink-stats.vercel.app/api/pin/?username=neatink&repo=AutoCalculate&show_owner=true&theme=github_dark" height="100" alt="task tracking"/></a>
-<a href="https://github-neatink-stats.vercel.app/api/pin/?username=neatink&repo=Learning-Management-System&show_owner=true&theme=github_dark"><img src="https://github-neatink-stats.vercel.app/api/pin/?username=neatink&repo=Learning-Management-System&show_owner=true&theme=github_dark" height="100" alt="task tracking"/></a>
+<a href="https://github.com/Neatink/DiscordAutoSender"><img src="https://github-neatink-stats.vercel.app/api/pin/?username=neatink&repo=DiscordAutoSender&show_owner=true&theme=github_dark" height="100" alt="task tracking"/></a>
+<a href="https://github.com/Neatink/Task-tracking"><img src="https://github-neatink-stats.vercel.app/api/pin/?username=neatink&repo=Task-tracking&show_owner=true&theme=github_dark" height="100" alt="task tracking"/></a>
+<a href="https://github.com/Neatink/AutoCalculate"><img src="https://github-neatink-stats.vercel.app/api/pin/?username=neatink&repo=AutoCalculate&show_owner=true&theme=github_dark" height="100" alt="task tracking"/></a>
 </details>
 
 ###
